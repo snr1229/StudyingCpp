@@ -1,7 +1,8 @@
+//BOJ_2557 Hello,world!
 #include <iostream>
 using namespace std;
 int main()
 {
-	std::cout << "Hello World!\n";
+	out << "Hello World!\n";
 	return 0;
 }
