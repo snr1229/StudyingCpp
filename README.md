@@ -1,2 +1,4 @@
 # StudyingCpp
-Studying c++ NOW!!
+Studying c++
+
+Starting from the bottom,,,, ;-)
