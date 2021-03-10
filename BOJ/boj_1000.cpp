@@ -1,3 +1,5 @@
+/*BOJ_1000
+a와 b 입력받아서 합 출력*/
 #include <iostream>
 using namespace std;
 
